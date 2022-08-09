@@ -18,16 +18,13 @@ programming languages. In each course, I've learned basic functions and features
 and then used them in practice.If I didn’t have enough materials, or some topics were not very clear,
 I turned to numerous Internet resources and YouTube, and of course books.
 
-- [X] Course HTML
-![HTML](HTML.JPG)
-
-
-- [X] Course CSS - 
-- [X] Course JavaScript - 
-- [X] Course Python for Beginners - 
+- [X] [_Course HTML_](HTML.JPG)
+- [X] [_Course CSS_](CSS.JPG) 
+- [X] [_Course JavaScript_](JavaScript.JPG) 
+- [X] [_Course Python for Beginners_](Python%20for%20Begginers.PNG)
 - [ ] Course Python Intermediate - 
 
-2. [_Академия АйТи_](https://academyit.ru). This is place where I've studied Python.
+2. [_Академия АйТи_](https://academyit.ru/courses/pp_python/). This is place where I've studied Python also.
 
 - [X] Course "Разработчик Python" - 272 hours
 
