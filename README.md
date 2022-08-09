@@ -1,4 +1,4 @@
-#### _What have I done earlier?_
+#### _What have I done before?_
 
 I've worked like environmental engineer in different directions.
 I did environmental education, environmental engineering surveys 
