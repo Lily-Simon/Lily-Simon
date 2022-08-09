@@ -18,7 +18,8 @@ programming languages. In each course, I've learned basic functions and features
 and then used them in practice.If I didn’t have enough materials, or some topics were not very clear,
 I turned to numerous Internet resources and YouTube, and of course books.
 
-- [X] [Course HTML](![HTML](https://github.com/Lily-Simon/Lily-Simon/blob/2e48e39eb9d6b699ae4d08ed4cbf648c24a65b44/HTML.JPG))
+- [X] Course HTML
+![HTML](HTML.JPG)
 
 
 - [X] Course CSS - 
