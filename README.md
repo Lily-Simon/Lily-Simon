@@ -7,7 +7,7 @@ I've done field work in difficult northern conditions and cameral work.
 
 ---
 
-#### _Why did I decide to go in IT?_
+#### _Why did I decide to go to IT?_
 
 It's important for me to be a part of technological progress.
 I think technological progress can help to decide accumulated
@@ -15,7 +15,7 @@ problems of the modern world, including environmental ones.
 
 ---
 
-#### _Where did I learn programming?_
+#### _Where do I learn programming?_
 
 [Sololearn] - this is popular place for self-study of various
 programming languages. In each course, I've learned basic functions and features of the language, 
