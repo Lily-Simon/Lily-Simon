@@ -26,7 +26,7 @@ I turned to numerous Internet resources and YouTube, and of course books.
 
 2. [_Академия АйТи_](https://academyit.ru/courses/pp_python/). This is place where I've studied Python also.
 
-- [X] Course "Разработчик Python" - 272 hours
+- [X] [_Course "Разработчик Python"_](Diploma.pdf) - 272 hours
 
 3. [_Geekbrains_](https://gb.ru/geek_university/analyst/ai-engineer-dp)
 
