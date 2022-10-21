@@ -31,9 +31,13 @@ and then used them in practice.
 
 - [X] [<font color='yellowgreen'>_Course "Разработчик Python"_</font>](Diploma.pdf) - 272 hours
 
-[GeekBrains]
+[Яндекс Практикум]
 
-- [ ] <font color='yellowgreen'>_Course "Инженер искусственный интеллект"_</font> - 719 hours - <font color='pink'>_current course_</font>
+- [ ] <font color='yellowgreen'>_Course "Разработчик Python"_</font> - 440 hours - <font color='pink'>_current course_</font>
+
+[Stepik]
+
+- [ ] <font color='yellowgreen'>_Course "Поколение Python: курс для продвинутых"_</font> - <font color='pink'>_current course_</font>
 
 If I don’t have enough materials, or some topics are not very clear,
 I turn to numerous Internet resources and YouTube and of course books.
@@ -42,8 +46,9 @@ I turn to numerous Internet resources and YouTube and of course books.
 
 ### _My skills_
 
-Python, Django, SQL, HTML, CSS, JavaScript.
+Python, Django, SQL, RESTful API, Git
 
 [Sololearn]: <https://www.sololearn.com/home>
 [АНО ДПО "Академия АйТи"]: <https://academyit.ru/courses/pp_python/>
-[GeekBrains]: <https://gb.ru/geek_university/analyst/ai-engineer-dp>
+[Яндекс Практикум]: <https://practicum.yandex.ru/backend-developer/>
+[Stepik]: <https://stepik.org/course/68343/promo>
